@@ -1,4 +1,10 @@
 /*
+Stepper control
+
+Controls the stepper motor using two buttons and 
+a potensiometer to change the stepper speed by changing
+the stepper delay. 
+
     uno      | stepper controller
     do 8    -> di 1
     do 9    -> di 2    
